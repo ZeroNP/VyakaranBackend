@@ -1,0 +1,8 @@
+flask
+gunicorn
+numpy
+tensorflow
+tensorflow_datasets
+keras
+nltk
+pickle
